@@ -130,3 +130,4 @@
 2026-02-18 13:27:53 - added dev note
 2026-02-18 13:28:33 - added dev note
 2026-02-18 13:28:50 - added dev note
+2026-02-18 13:29:01 - implementation detail
